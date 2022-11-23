@@ -17,7 +17,7 @@ const request = {
   config: {
     encoding: "MULAW",
     sampleRateHertz: 8000,
-    languageCode: "en-GB",
+    languageCode: "pt-BR",
   },
   interimResults: true, // If you want interim results, set this to true
 };
